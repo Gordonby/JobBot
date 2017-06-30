@@ -1,3 +1,3 @@
-# Debugging a C# Azure Bot Service bot in Visual Studio 
+# Demonstrating an Azure Bot Framework FormsBot 
 
-To learn how to debug Azure Bot Service bots, please visit https://aka.ms/bf-docs-azure-debug
+To use the bot, go to http://job-bot.byers.me
